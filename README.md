@@ -1,7 +1,4 @@
 
-#### Пакеты Nuget
-- PDFsharp-MigraDoc - красивый вывод отчетов в PDF
-- Microsoft.Data.Sqlite - взаимодействие с Sqlite
 
 #### Скриншоты
 <p align="center">
